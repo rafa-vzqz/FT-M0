@@ -1,0 +1,17 @@
+h1{
+    color:cornflowerblue
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: crimson;
+    padding: 50px;
+    border: 7px solid orange;
+}
+#spanId{
+    font-size: 28px;
+    margin: 50px;
+}
